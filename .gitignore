@@ -1,0 +1,11 @@
+# Evidências e capturas visuais locais
+evidencias/
+*.backup.html
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências locais se houver
+node_modules/
